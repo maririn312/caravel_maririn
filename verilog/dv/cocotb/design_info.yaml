@@ -1,8 +1,8 @@
-CARAVEL_ROOT: /usr/caravel_user_project/caravel
-MCW_ROOT: /usr/caravel_user_project/mgmt_core_wrapper
+CARAVEL_ROOT: /Users/maririn312/Desktop/caravel_maririn/caravel
+MCW_ROOT: /Users/maririn312/Desktop/caravel_maririn/mgmt_core_wrapper
 PDK: sky130A
-PDK_ROOT: /usr/pdk
-USER_PROJECT_ROOT: /usr/caravel_user_project
+PDK_ROOT: /Users/maririn312/Desktop/caravel_maririn/dependencies/pdks
+USER_PROJECT_ROOT: /Users/maririn312/Desktop/caravel_maririn
 caravan: false
 clk: 25
 emailto:
